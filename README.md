@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EMIRBYTE</h1>
-<h3 align="center">A beginner developer who is interested in crybersecurity</h3>
+<h3 align="center">A beginner developer who is interested in cybersecurity</h3>
 
 - 🌱 I’m currently learning **Python, C#, Java**
 
