@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, C#, Java**
 
-- 📫 How to reach me **emirbyte@gmail.com, Discord: emirbyte#0001**
+- 📫 How to reach me **emirbyte@gmail.com, Discord: emirbyte#4219**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
